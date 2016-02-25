@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./operahistoricaet00wels_1096.png"; bbox 0 0 2260 3454; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 568 827 1773 1043">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 568 827 1773 1043">
+     <span class='ocr_line' id='line_1_1' title="bbox 569 827 1690 926; baseline -0.004 -19"><span class='ocrx_word' id='word_1_1' title='bbox 569 849 1085 926; x_wconf 76' lang='lat' dir='ltr'><em>Omnipotensgenitor</em></span> <span class='ocrx_word' id='word_1_2' title='bbox 1097 886 1116 914; x_wconf 84' lang='lat'>‚</span> <span class='ocrx_word' id='word_1_3' title='bbox 1133 847 1241 925; x_wconf 64' lang='lat' dir='ltr'><em>tuq}</em></span> <span class='ocrx_word' id='word_1_4' title='bbox 1262 846 1292 901; x_wconf 84' lang='grc' dir='ltr'><strong><em>ὂ</em></strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 1310 827 1484 923; x_wconf 54' lang='lat' dir='ltr'><em>divfio</em></span> <span class='ocrx_word' id='word_1_6' title='bbox 1497 843 1690 912; x_wconf 62' lang='lat' dir='ltr'><em>mixti,</em></span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 568 943 1773 1043; baseline -0.003 -20"><span class='ocrx_word' id='word_1_7' title='bbox 568 965 718 1023; x_wconf 72' lang='lat' dir='ltr'><em>Pilius</em></span> <span class='ocrx_word' id='word_1_8' title='bbox 725 979 880 1042; x_wconf 77' lang='lat' dir='ltr'><em>atque</em></span> <span class='ocrx_word' id='word_1_9' title='bbox 887 967 1052 1022; x_wconf 77' lang='lat' dir='ltr'><em>Pater</em></span> <span class='ocrx_word' id='word_1_10' title='bbox 1058 943 1583 1043; x_wconf 17' lang='lat' dir='ltr'><em>‚efffiaentzm-spfsritus,</em></span> <span class='ocrx_word' id='word_1_11' title='bbox 1591 981 1773 1022; x_wconf 75' lang='lat' dir='ltr'><em>unum:</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 982 1085 1444 1142">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 982 1085 1444 1142">
+     <span class='ocr_line' id='line_1_3' title="bbox 982 1085 1444 1142; baseline -0.002 -3"><span class='ocrx_word' id='word_1_12' title='bbox 982 1085 1185 1142; x_wconf 79' lang='lat' dir='ltr'><em>Faveas</em></span> <span class='ocrx_word' id='word_1_13' title='bbox 1197 1087 1350 1140; x_wconf 65' lang='lat' dir='ltr'><em>vom.</em></span> <span class='ocrx_word' id='word_1_14' title='bbox 1411 1124 1413 1127; x_wconf 66' lang='lat'><em>.</em></span> <span class='ocrx_word' id='word_1_15' title='bbox 1438 1099 1444 1101; x_wconf 62' lang='grc'><strong>“</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 2132 0 2260 3454">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 2132 0 2260 3454">
+     <span class='ocr_line' id='line_1_4' title="bbox 2132 0 2260 3454; baseline 0 0"><span class='ocrx_word' id='word_1_16' title='bbox 2132 0 2260 3454; x_wconf 95' lang='lat' dir='ltr'><em> </em></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

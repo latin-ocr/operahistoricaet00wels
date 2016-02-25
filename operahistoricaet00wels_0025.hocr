@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./operahistoricaet00wels_0025.png"; bbox 0 0 2260 3454; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 530 798 1925 1002">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 530 798 1925 1002">
+     <span class='ocr_line' id='line_1_1' title="bbox 530 798 1925 1002; baseline -0.002 -18"><span class='ocrx_word' id='word_1_1' title='bbox 530 876 853 985; x_wconf 75' lang='lat' dir='ltr'>VIR]</span> <span class='ocrx_word' id='word_1_2' title='bbox 903 864 1124 983; x_wconf 74' lang='lat' dir='ltr'><em>&#39;JLL</em></span> <span class='ocrx_word' id='word_1_3' title='bbox 1133 874 1657 1002; x_wconf 75' lang='lat' dir='ltr'>VsTRls‚</span> <span class='ocrx_word' id='word_1_4' title='bbox 1917 798 1925 805; x_wconf 24' lang='lat'>³</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 178 1049 2000 1269">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 178 1040 2000 1269">
+     <span class='ocr_line' id='line_1_2' title="bbox 178 1049 2000 1269; baseline -0.004 -25"><span class='ocrx_word' id='word_1_5' title='bbox 178 1051 941 1244; x_wconf 77' lang='lat' dir='ltr'>MAR-Cl</span> <span class='ocrx_word' id='word_1_6' title='bbox 1005 1049 2000 1269; x_wconf 74' lang='lat' dir='ltr'>VELSERL</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 441 1293 1775 1678">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 441 1293 1775 1667">
+     <span class='ocr_line' id='line_1_3' title="bbox 441 1293 1775 1511; baseline 0.011 -97"><span class='ocrx_word' id='word_1_7' title='bbox 441 1293 986 1444; x_wconf 88' lang='lat' dir='ltr'>VITA</span> <span class='ocrx_word' id='word_1_8' title='bbox 1022 1293 1775 1511; x_wconf 60' lang='lat' dir='ltr'>EGENV&amp;</span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 656 1538 1336 1678; baseline 0.021 -30.294"><span class='ocrx_word' id='word_1_9' title='bbox 656 1635 664 1644; x_wconf 90' lang='lat'><strong><em>.</em></strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 791 1538 1336 1678; x_wconf 70' lang='lat' dir='ltr'>MORS</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 302 1858 1871 1942">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 302 1858 1871 1942">
+     <span class='ocr_line' id='line_1_5' title="bbox 302 1858 1871 1942; baseline 0.001 -3.043"><span class='ocrx_word' id='word_1_11' title='bbox 302 1867 539 1939; x_wconf 87' lang='lat' dir='ltr'><strong>CRIH</strong></span> <span class='ocrx_word' id='word_1_12' title='bbox 444 1858 1014 1939; x_wconf 85' lang='lat' dir='ltr'>STOPHO</span> <span class='ocrx_word' id='word_1_13' title='bbox 1023 1867 1178 1935; x_wconf 88' lang='lat' dir='ltr'>VM</span> <span class='ocrx_word' id='word_1_14' title='bbox 1294 1867 1425 1936; x_wconf 87' lang='lat' dir='ltr'>AR</span> <span class='ocrx_word' id='word_1_15' title='bbox 1428 1866 1871 1942; x_wconf 84' lang='lat' dir='ltr'>NOLDVM</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 568 2066 1585 2084">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 568 2066 1585 2084">
+     <span class='ocr_line' id='line_1_6' title="bbox 568 2066 1585 2084; baseline 0 1370"><span class='ocrx_word' id='word_1_16' title='bbox 568 2066 1585 2084; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
